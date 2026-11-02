@@ -26,7 +26,7 @@ For the 1D Allen-Cahn, you can run `python allen_cahn_1d_NoLphys.py`
 
 
 ## Authors
-Jayrah Bena E. Rinon, Victoria May P. Mendoza and Youcef Mammeri
+Jayrah Bena E. Rinon, Victoria May P. Mendoza, and Youcef Mammeri
 
 
 ## License
